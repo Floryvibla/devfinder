@@ -7,7 +7,7 @@ export function SearchUserInput() {
     <div className={styles.container}>
       <Search className={styles.iconSearch} size={30}/>
       <input/>
-      <button>Search</button>
+      <button>Adicionar</button>
     </div>
   )
 }
